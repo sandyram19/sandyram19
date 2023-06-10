@@ -1,9 +1,10 @@
 # 💫 About Me:
-🌱 I’m in my final year of B.Tech Computer Science Engineering in Vellore Institute of Technology, Chennai<br><br>👯 I’m looking to collaborate on Data Science and Web Development Projects
+🌱 I’m in my final year of B.Tech Computer Science Engineering in Vellore Institute of Technology, Chennai<br><br>👯 I’m looking to collaborate on Data Science and Web Development Projects<br><br>
+📫 How to reach me **santhoshramgk@gmail.com**
 
 
-## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
+
+# 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/santhosh-ram-153aa31bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-ram" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/santhoshram19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santhoshram19" height="30" width="40" /></a>
