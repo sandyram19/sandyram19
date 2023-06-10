@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sandyram19
-- 👀 I’m interested in programming
+- 👀 Python Programmer | Data Science Enthusiast | Full Stack Developer
 - 🌱 I’m currently learning CSE in VIT Chennai
 
 <!---
