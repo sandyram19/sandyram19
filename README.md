@@ -4,7 +4,7 @@
 
 
 
-# 🌐 Connect with me:
+# 🌐 Profiles:
 <p align="left">
 <a href="https://www.linkedin.com/in/santhosh-ram-153aa31bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-ram" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/santhoshram19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santhoshram19" height="30" width="40" /></a>
